@@ -1,0 +1,48 @@
+
+body{
+   background-image: url("image.jfif");
+    background-position:center ;
+    background-size:cover;
+    margin-top: 40px;
+   
+}
+caption{
+    font-size:400%;
+    color:red ;
+    text-decoration: black ;
+    text-shadow: 5px 5px 5px ;
+  padding-left:2%;
+
+    
+}
+table{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20%;
+    background-color: rgba(0,0,0,0.5);
+
+    font-size: 150%;
+    border-radius: 50px; 
+    border-spacing: 10px;
+    border-inline-end-style:groove ;
+    border: 1px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+    color:#fff;
+   margin-left: 15%;
+   margin-bottom: 10%;
+}
+label{
+    padding-left: 35%;
+    padding-bottom:100%;
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+    color:seashell;
+    max-width: 100%;
+    text-shadow: 2px 2px 2px;
+}
+th{
+    color: silver;
+    size: 5%;
+    text-align: left;
+}
